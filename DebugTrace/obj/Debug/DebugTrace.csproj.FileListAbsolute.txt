@@ -1,0 +1,12 @@
+C:\Users\Torsten\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\DebugTrace\bin\Debug\DebugTrace.exe
+C:\Users\Torsten\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\DebugTrace\bin\Debug\DebugTrace.pdb
+C:\Users\Torsten\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\DebugTrace\obj\Debug\DebugTrace.csprojResolveAssemblyReference.cache
+C:\Users\Torsten\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\DebugTrace\obj\Debug\DebugTrace.exe
+C:\Users\Torsten\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\DebugTrace\obj\Debug\DebugTrace.pdb
+C:\Users\tpohling\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\obj\Debug\DebugTrace.exe
+C:\Users\tpohling\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\obj\Debug\DebugTrace.pdb
+C:\Users\tpohling\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\bin\Debug\DebugTrace.exe
+C:\Users\tpohling\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\bin\Debug\DebugTrace.pdb
+C:\Users\tpohling\Documents\Visual Studio 2015\Projects\DebugTrace\DebugTrace\obj\Debug\DebugTrace.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\DebugTrace\DebugTrace\obj\Debug\DebugTrace.exe
+D:\Visual Studio 2015\Projects\DebugTrace\DebugTrace\obj\Debug\DebugTrace.pdb
